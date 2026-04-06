@@ -28,7 +28,7 @@ int main(void){
 	Vm = S/T;
 	
 	// %.2f -> Limita a duas casas decimais
-	// Exibir resultado: Valor de a e b trocados
+	// Exibir resultado: Velocidade média
 	printf("A velocidade media corresponde a: %.2f ", Vm); 
 	
 	
